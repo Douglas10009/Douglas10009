@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Douglas10009
+- 👋 Hi, I’m @Douglas10009 / Junior Developer
 - 👀 I’m interested in undestand this new world
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web applications ou game design
