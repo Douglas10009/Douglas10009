@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Douglas10009 / Junior Developer
 - 👀 I’m interested in undestand this new world
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web applications ou game design
+- 💞️ I’m looking to collaborate on web applications or game design
 - 📫 How to reach me: www.linkedin.com/in/douglaseverton112
 
 <!---
