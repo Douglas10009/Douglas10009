@@ -27,6 +27,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Douglas10009&repo=gerenciador_bancos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Douglas10009/gerenciador_bancos)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Douglas10009&repo=gerenciador_bancos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Douglas10009/AuAuFollow)
+
 ## 🔍 Quer mais?
 
 - [Code Pen](https://codepen.io/douglassNew) - Para alguns doodles em WEB design
